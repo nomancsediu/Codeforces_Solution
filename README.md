@@ -2,7 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="200"/>
 
-# Codeforces Solutions 🚀
+# Codeforces Solutions
 
 </div>
 
